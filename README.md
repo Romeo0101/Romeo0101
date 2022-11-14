@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romeo Dela cruz Estoy Jr</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://i.imgur.com/towFsFQ.jpeg" alt="ome" /> </p>
+<p align="left"> <img src="https://i.imgur.com/towFsFQ.jpeg" alt="ome" height="300px" width = "300px" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
