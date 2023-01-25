@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Romeo Dela cruz Estoy Jr</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h1 align="center">Romeo Dela cruz Estoy Jr</h1>
+<p align="center"> <img src="https://i.imgur.com/towFsFQ.jpeg" alt="ome" height="300px" width = "300px" style="border-radius: 50%;"/> </p>
 
-<p align="left"> <img src="https://i.imgur.com/towFsFQ.jpeg" alt="ome" height="300px" width = "300px" /> </p>
+<p align="center>My name is Romeo Delacruz Estoy Jr, from Occidental Mindoro, currently taking up BS Information Technology at Batangas State University.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
