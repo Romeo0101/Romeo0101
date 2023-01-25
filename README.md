@@ -1,6 +1,8 @@
 ### Hello
 
-    My name is Romeo Delacruz Estoy Jr, 20 years old, from Occidental Mindoro. I'm currently taking up BS Information Technology ( Network Technology Track ) at Batangas State University - National Engineering University.
+    My name is Romeo Delacruz Estoy Jr, 20 years old, from Occidental Mindoro. 
+    I'm currently taking up BS Information Technology ( Network Technology Track ) 
+    at Batangas State University - National Engineering University.
 
 ### Language & Tools
 
