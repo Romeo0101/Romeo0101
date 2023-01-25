@@ -1,11 +1,25 @@
-<h1 align="center">Romeo Dela cruz Estoy Jr</h1>
-<p align="center"> <img src="https://i.imgur.com/towFsFQ.jpeg" alt="ome" height="300px" width = "300px" style="border-radius: 50%;"/> </p>
+### Hello
 
-<p align="center>My name is Romeo Delacruz Estoy Jr, from Occidental Mindoro, currently taking up BS Information Technology at Batangas State University.</p>
+    My name is Romeo Delacruz Estoy Jr, 20 years old, from Occidental Mindoro. I'm currently taking up BS Information Technology ( Network Technology Track ) at Batangas State University - National Engineering University.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Language & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p
++ Python
++ Html
++ Css
++ Flask
++ Git and Github
++ Mysql
++ Linux
+
+### Social Media
+
++ [Facebook](https://www.facebook.com/romeo.estoy.31)
++ [Instagram](https://www.instagram.com/ohms.sh)
++ [Twitter](https://twitter.com/Omeyaaaaa)
+
+### Contact Information
+
++ 21-03971@g.batstate-u.edu.ph
++ 09502650820
+
