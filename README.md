@@ -12,6 +12,7 @@
 + Flask
 + Git and Github
 + Mysql
++ Php
 + Linux
 
 ### Social Media
